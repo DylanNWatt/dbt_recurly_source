@@ -289,6 +289,7 @@ models:
           combination_of_columns:
             - coupon_redemption_id
             - invoice_updated_at 
+            - invoice_id
     
     columns:
       - name: coupon_redemption_id
